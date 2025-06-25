@@ -3,5 +3,5 @@ services:
     name: kirovmarketbot
     env: python
     buildCommand: pip install -r requirements.txt
-    startCommand: python main.py
+    startCommand: python bot.py
     pythonVersion: 3.11.9
